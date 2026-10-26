@@ -1,0 +1,20 @@
+{
+  "name": "dsa-project-2026",
+  "version": "1.0.0",
+  "description": "Event manager app",
+  "homepage": "https://github.com/prosiscky/dsa-project-2026#readme",
+  "bugs": {
+    "url": "https://github.com/prosiscky/dsa-project-2026/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prosiscky/dsa-project-2026.git"
+  },
+  "license": "ISC",
+  "author": "Prosperity Ikechi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
